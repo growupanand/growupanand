@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Utkarsh Anand (GrowUpAnand)!
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development Frontend and Backend
 - ⌨️ My Powers [ React Js • Python • SQL • MongoDB • Javascript • HTML • CSS • Bootstrap ]
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 [Instagram](https://www.instagram.com/growupanand)
