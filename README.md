@@ -5,7 +5,7 @@
   - Frontend - [ React Js, Next.js, Bootstrap ]
   - Backend - [ ExpressJs, Django, Flask ]
   - Database - [ MongoDB, SQL ]
-  - Extra - [ Typscript, scss/less ]
+  - Extra - [ Typscript, scss/less, Git, Git Hooks ]
 - 📫 How to reach me:
   - [![image](https://icons.getbootstrap.com/assets/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/utkarshanand93)
 
