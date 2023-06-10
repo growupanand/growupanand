@@ -2,7 +2,7 @@
 
 - 👀 I’m looking to collaborate on Full Stack Projects
 - ⌨️ My Powers:
-  - Frontend - [ React Js, Next.js, Bootstrap ]
+  - Frontend - [ React Js, Next.js, Bootstrap, Mantine, Redux toolkit, Reflux, zustand ]
   - Backend - [ ExpressJs, Django, Flask ]
   - Database - [ MongoDB, SQL ]
   - Extra - [ Typscript, scss/less, Git, Git Hooks ]
