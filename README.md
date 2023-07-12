@@ -1,11 +1,13 @@
 ## Hey! 👋, I'm Utkarsh Anand, a Self-Taught Full Stack Developer
 
 - 👀 I’m looking to collaborate on Full Stack Projects
+
 - ⌨️ My Powers:
-  - Frontend - [ React Js, Next.js, Bootstrap, Mantine, Redux toolkit, Reflux, zustand ]
+  - Frontend - [ React Js, Next.js, Angular, Bootstrap, Mantine, Redux toolkit, Reflux, zustand ]
   - Backend - [ ExpressJs, Django, Flask ]
   - Database - [ MongoDB, SQL ]
   - Extra - [ Typscript, scss/less, Git, Git Hooks ]
+  
 - 📫 How to reach me:
   - [![image](https://icons.getbootstrap.com/assets/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/utkarshanand93)
 
