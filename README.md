@@ -6,7 +6,8 @@
   - Frontend - [ React Js, Next.js, Angular ]
   - Backend - [ ExpressJs, Django, Flask ]
   - Database - [ MongoDB, SQL ]
-  - Extra - [ Webpack, Typscript, scss/less, Git, Git Hooks ]
+  - Extra - [ Webpack, Typscript, scss/less, Git, Git Hooks, Reactive programming ]
+  - Mobile Development - [Flutter]
   
 - 📫 How to reach me:
   - [![image](https://icons.getbootstrap.com/assets/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/utkarshanand93)
