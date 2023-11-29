@@ -6,7 +6,7 @@
   - Frontend - [ React Js, Next.js, Angular ]
   - Backend - [ ExpressJs, Django, Flask ]
   - Database - [ MongoDB, SQL ]
-  - Extra - [ Webpack, Typscript, scss/less, Git, Git Hooks, Reactive programming ]
+  - Extra - [ Webpack, Typescript, Sass/Less, Git + Hooks, Reactive programming, OpenAI, Tailwind ]
   - Mobile Development - [Flutter]
   
 - 📫 How to reach me:
