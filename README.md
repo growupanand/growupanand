@@ -3,11 +3,12 @@
 👀 I’m looking to collaborate on Full Stack Projects
 
 ⌨️ **My Powers:**
-  - Frontend - [ React Js, Next.js, Angular ]
-  - Backend - [ ExpressJs, Django, Flask ]
-  - Database - [ MongoDB, SQL ]
-  - Extra - [ Webpack, Typescript, Sass/Less, Git + Hooks, Reactive programming, OpenAI, Tailwind ]
-  - Mobile Development - [Flutter]
+
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap, Webpack 
+- Backend: Node.js, Express.js, Mongoose, Prisma, Django
+- Database: MongoDB, Postgres
+- Mobile: Flutter
   
 📫 **How to reach me:**
   - [![image](https://icons.getbootstrap.com/assets/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/utkarshanand93)
