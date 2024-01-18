@@ -2,7 +2,7 @@
 **Hey 👋, I'm Self-Taught Full Stack Developer. I’m looking 👀  to collaborate on Full Stack Projects.**
 
 ### My Powers:
-- Languages: JavaScript, TypeScript, Python
+- Languages: JavaScript, TypeScript, Python, Dart
 - Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap, Webpack 
 - Backend: Node.js, Express.js, Mongoose, Prisma, Django
 - Database: MongoDB, Postgres
