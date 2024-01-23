@@ -18,6 +18,3 @@
 -------------
 ![GrowUpAnand's GitHub stats](https://github-readme-stats.vercel.app/api?username=growupanand&show_icons=true&count_private=true&hide_border=true&show_owner=true&include_all_commits=true&layout=compact) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=growupanand&count_private=true&hide_border=true&layout=compact)
-
-
-[![An image of @growupanand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/growupanand)](https://holopin.io/@growupanand)
