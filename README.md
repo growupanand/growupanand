@@ -1,5 +1,5 @@
 ## Utkarsh Anand
-**Hey 👋, I'm Self-Taught Full Stack Developer. I’m looking 👀  to collaborate on Full Stack Projects.**
+**Hey 👋, I'm Self-Taught Full Stack Engineer. I’m looking 👀  to collaborate on Full Stack Projects.**
 
 ### My Powers:
 - Languages: JavaScript, TypeScript, Python, Dart
