@@ -3,11 +3,11 @@
 
 ### My Powers:
 - Languages: JavaScript, TypeScript, Python, Dart
-- Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap, Webpack 
+- Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap
 - Backend: Node.js, Express.js, Django, tRPC
 - Database: MongoDB, Postgres
 - Mobile: Flutter
-- Extra: Mongoose, Prisma, Drizzle
+- Extra: Mongoose, Prisma, Drizzle, Turborepo, Webpack
 
 ### My open source contributions
 - https://github.com/getsentry/sentry/pull/38191
