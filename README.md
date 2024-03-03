@@ -13,9 +13,8 @@
 - https://github.com/getsentry/sentry/pull/38191
 
 ### How to reach me:
-- [![image](https://icons.getbootstrap.com/assets/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/utkarshanand93)
+[![image](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utkarshanand93)  [![Peerlist](https://github-readme-badge.peerlist.io/api/growupanand?style=for-the-badge)](https://peerlist.io/growupanand)
 
 
 -------------
-![GrowUpAnand's GitHub stats](https://github-readme-stats.vercel.app/api?username=growupanand&show_icons=true&count_private=true&hide_border=true&show_owner=true&include_all_commits=true&layout=compact) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=growupanand&count_private=true&hide_border=true&layout=compact)
+![GrowUpAnand's GitHub stats](https://github-readme-stats.vercel.app/api?username=growupanand&show_icons=true&count_private=true&hide_border=true&show_owner=true&include_all_commits=true&layout=compact)
