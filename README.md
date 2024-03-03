@@ -17,4 +17,4 @@
 
 
 -------------
-![GrowUpAnand's GitHub stats](https://github-readme-stats.vercel.app/api?username=growupanand&show_icons=true&count_private=true&hide_border=true&show_owner=true&include_all_commits=true&layout=compact)
+![GrowUpAnand's GitHub stats](https://github-readme-stats.vercel.app/api?username=growupanand&show_icons=true&count_private=true&hide_border=true&show_owner=true&include_all_commits=true&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=growupanand&count_private=true&hide_border=true&layout=compact)
