@@ -4,7 +4,7 @@
 ### My Powers:
 - Languages: JavaScript, TypeScript, Python, Dart
 - Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap
-- Backend: Node.js, Express.js, Django, tRPC
+- Backend: Node.js, Express.js, Django, tRPC, Websocket
 - Database: MongoDB, Postgres
 - Mobile: Flutter
 - Extra: Mongoose, Prisma, Drizzle, Turborepo, Webpack
