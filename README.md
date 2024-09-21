@@ -1,16 +1,13 @@
-## Utkarsh Anand
-**Hey 👋, I'm Self-Taught Full Stack Engineer. I’m looking 👀  to collaborate on Full Stack Projects.**
+## Hey 👋, I'm Utkarsh Anand
+**A Full Stack Engineer with a Frontend specialization. Actively looking to collaborate on projects or explore job opportunities!**
 
 ### My Powers:
-- Languages: JavaScript, TypeScript, Python, Dart
-- Frontend: React.js, Next.js, Redux, Zustand, Angular, SCSS, Tailwind, Bootstrap
-- Backend: Node.js, Express.js, Django, tRPC, Websocket
-- Database: MongoDB, Postgres
-- Mobile: Flutter
-- Extra: Mongoose, Prisma, Drizzle, Turborepo, Webpack
-
-### My open source contributions
-- https://github.com/getsentry/sentry/pull/38191
+- **Languages:** JavaScript, TypeScript, Python, Dart
+- **Frontend:** React.js, Next.js, Angular, Tailwind
+- **Backend:** Node.js, Express.js, Django, tRPC, Websocket
+- **Database:** MongoDB, PostgreSQL
+- **Mobile:** Flutter
+- **Extra:** Mongoose, Prisma, Drizzle, Turborepo, Webpack
 
 ### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshanand93)  [![Peerlist](https://github-readme-badge.peerlist.io/api/growupanand?style=for-the-badge)](https://peerlist.io/growupanand/signup)
